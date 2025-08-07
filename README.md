@@ -1,1 +1,1 @@
-![](/instruct.png)
+![](instruct.png)
