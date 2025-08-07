@@ -25,7 +25,7 @@ giovani.bontempo@faculdadeimpacta.com.br
 
 # Roadmap da disciplina
 
-![bg right:65% h:900](img/roadmap.svg)
+![bg right:65% h:900](../imagens/roadmap.svg)
 
 ---
 

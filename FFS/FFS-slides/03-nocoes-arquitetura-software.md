@@ -41,7 +41,7 @@ Definir a arquitetura é uma das partes *mais importantes* da engenharia de soft
 
 - **Acoplamento**: Refere-se ao grau de <mark>dependência entre diferentes módulos ou componentes de um sistema</mark>, medindo as interações e conexões entre eles. Um **baixo acoplamento** indica que os módulos são independentes, facilitando a manutenção e a reutilização do código.
 
-![w:600](img/coesão-acoplamento.png)
+![w:600](../imagens/coesão-acoplamento.png)
 
 ---
 
@@ -98,5 +98,5 @@ A POC é útil para identificar riscos, limitações e oportunidades, ajudando n
 
 ![bg left:50%](https://images.unsplash.com/photo-1582148818753-2b63c7785867?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZW5kfGVufDB8fDB8fHww)
 # Obrigado 👋
-## 👋 Professor Giovani Bontempo
+👋 Professor Giovani Bontempo
 giovani.bontempo@faculdadeimpacta.com.br

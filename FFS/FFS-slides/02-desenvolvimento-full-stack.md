@@ -40,11 +40,11 @@ header:
 ### Bibliotecas vs. Framework
 Quando usamos uma **biblioteca**, <mark>nosso código é quem controla o fluxo</mark>: chamamos as funções ou recursos da biblioteca quando precisamos. Já com um **framework**, acontece o oposto: <mark>ele define a estrutura e o fluxo principal do programa e chama o nosso código em momentos específicos</mark>, como em eventos ou callbacks. Um framework pode, inclusive, usar bibliotecas internamente, mas a principal diferença está em quem controla a execução.
 
-![](img/framework-vs-biblioteca.png)
+![](../imagens/framework-vs-biblioteca.png)
 
 ---
 
-![bg left:50%](img/fases-sdlc.png)
+![bg left:50%](../imagens/fases-sdlc.png)
 
 SDLC: ou ciclo de vida de desenvolvimento de software (_Software Development Life Cycle_)  é um <mark>processo estruturado que orienta o desenvolvimento de software</mark>, abrangendo desde a concepção até a entrega e manutenção do produto. 
 
@@ -73,12 +73,12 @@ O SDLC é composto por várias fases:
 
 **Entrega Contínua (CD)**: é uma prática de desenvolvimento que estende a Integração Contínua, garantindo que <mark>o software esteja sempre em um estado *pronto para implantação* em produção<mark>. A cada alteração validada, o código passa por processos automatizados de build, testes e empacotamento, resultando em versões que podem ser entregues rapidamente aos usuários.
 
-![w:700](img/CI-CD.png)
+![w:700](../imagens/CI-CD.png)
 
 ---
 
 ![bg left:50%](https://images.unsplash.com/photo-1582148818753-2b63c7785867?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZW5kfGVufDB8fDB8fHww)
 
 # Obrigado 👋
-## 👋 Professor Giovani Bontempo
+👋 Professor Giovani Bontempo
 giovani.bontempo@faculdadeimpacta.com.br
