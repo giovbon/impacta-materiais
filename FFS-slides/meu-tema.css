@@ -1,0 +1,32 @@
+/* @theme meu-tema */
+
+@import 'uncover'; /* Importa um tema base */
+
+h1, h2, h3 {
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 60px;
+  color: #9db853;
+  /* text-align: center; */
+}
+
+h2 {
+  font-size: 48px;
+  color: #666666;
+}
+
+h3 {
+  font-size: 38px;
+  color: #646464;
+}
+
+p {
+  font-size: 28px;
+  line-height: 1.2;
+}
+
+ul, ol {
+  font-size: 28px;
+}
